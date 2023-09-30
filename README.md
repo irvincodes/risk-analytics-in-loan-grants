@@ -32,7 +32,7 @@ File Name: loan_data.csv Records: 5000
 ![gender-viz](https://github.com/irvincodes/risk-analytics-in-loan-grants/assets/119061206/7b4a145e-faed-465d-8893-d97aabef2974)
 The data set is well represented by both sets of gender and not biased towards any.
 
-![defaulters-non-defaulters](https://github.com/irvincodes/risk-analytics-in-loan-grants/assets/119061206/097a15fe-ebd1-469c-8ad3-58784419c171)
+![defaulters-non-defaulters](https://github.com/irvincodes/risk-analytics-in-loan-grants/assets/119061206/8633430c-8d38-4e49-b4ca-9192d08b3d05)
 
 ![loan-types](https://github.com/irvincodes/risk-analytics-in-loan-grants/assets/119061206/fa058fef-4f25-42be-b58d-57032cfde603)
 
