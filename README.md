@@ -6,9 +6,9 @@ In the financial industry, it is crucial for lenders to assess the creditworthin
 
 When the financial institution reviews a loan application, it must make a decision regarding approval, taking into account the applicant's profile. This decision involves two types of risks:
 
-If the applicant is likely to repay the loan, rejecting their application results in a missed opportunity of business revenue for the company.
+1. If the applicant is likely to repay the loan, rejecting their application results in a missed opportunity of business revenue for the company.
 
-Conversely, if the applicant is highly unlikely to repay the loan, approving their application may expose the company to a potential financial loss in the event of default.
+2. Conversely, if the applicant is highly unlikely to repay the loan, approving their application may expose the company to a potential financial loss in the event of default.
 
 The goal of this project is to develop a predictive model that can accurately classify borrowers as defaulters or non-defaulters based on various financial and demographic factors.
 
