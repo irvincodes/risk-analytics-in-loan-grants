@@ -34,9 +34,11 @@ The data set is well represented by both sets of gender and not biased towards a
 
 ![defaulters-non-defaulters](https://github.com/irvincodes/risk-analytics-in-loan-grants/assets/119061206/097a15fe-ebd1-469c-8ad3-58784419c171)
 
+![loan-types](https://github.com/irvincodes/risk-analytics-in-loan-grants/assets/119061206/fa058fef-4f25-42be-b58d-57032cfde603)
+
 Subsequently, I do further EDA analysis on the dataset before utilising Machine Learning techniques such as Logistic Regression and Random Forest to train and evaluate the models.
 
 *Further details can be seen in my Jupyter Notebook Repo file where the most important features used to predict defaulters vs non-defaulters are identified.*
 
-In conclusion, I come up with key insights and a set of business recommendations for the business.
+To conclude, I come up with key insights and a set of business recommendations for the business.
 
