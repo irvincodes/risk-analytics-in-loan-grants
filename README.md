@@ -40,5 +40,5 @@ Subsequently, I do further EDA analysis on the dataset before utilising Machine 
 
 *Further details can be seen in my Jupyter Notebook Repo file where the most important features used to predict defaulters vs non-defaulters are identified.*
 
-To conclude, I come up with key insights and a set of business recommendations for the business.
+To conclude, I provided some key insights and a set of business recommendations.
 
